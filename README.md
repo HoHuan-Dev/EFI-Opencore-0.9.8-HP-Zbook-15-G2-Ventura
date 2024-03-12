@@ -13,7 +13,7 @@ This is an Opencore EFI repository of my HP Zbook 15 G2. **DISCLAIMER:** I will 
 | Chipset  | Mobile Intel QM87 | M70 v01.26 (3/3/2020)  |
 | CPU  | Intel i7-4810MQ  |
 | iGPU  | Intel HD4600  | Intel (R) vBios 5.5.1028  |
-| dGPU  | Nvidia Quadro K2100M  |
+| dGPU  | Nvidia Quadro K2100M  | Working with OCLP Post-Install
 | Storage  | Crucial SATA 2.5 256GB (UpgradeBay) macOS | Axiom C560 SATA 2.5 Windows 10
 | RAM  | 16GB (8x2GB) Micron PC3L |
 | Ethernet  | Intel I217-LM  |
